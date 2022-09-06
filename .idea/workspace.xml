@@ -10,6 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e30f7f3f-8231-4c74-b3f2-df035f219fea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/Customer management_files/.idea/Customer management_files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/BaiTapJame/BaiTapJame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/BaiTapJava1/BaiTapJava1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/BaiTapJava1/out/test/BaiTapJava1/BaiTapJava1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/CaseStudyModule2/CaseStudyModule2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/DemoLT/DemoLT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/Ket_thuc_module2_NguyenThanhTung_C11121I1/Ket_thuc_module2_NguyenThanhTung_C11121I1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/NewCS2/NewCS2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/ProductManager/ProductManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/Productnew/Productnew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/Productnew/out/production/Productnew/c1021k1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CODEGYM/MODULE2/ex_Test_Java/.idea/ex_Test_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study-4-tech-shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../han-g/case-study-4-tech-shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hl-tech/Technology_Store/.idea/Technology_Store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ket-thuc-cac-module/KetThucModule2/KetThucModule2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mac-lenin/PharmacyOnline3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spb_cart_aMinh/spb-order-cart-item.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/truongtq_pk01404_java3_asm/truongtq_pk01404_java3_asm.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/Java/Java.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Containers/com.Ababe.UnzipAnyFile/Data/Library/Application Support/CompressTemp/Ket_thuc_module2_NguyenThanhTung_C11121I1/Ket_thuc_module2_NguyenThanhTung_C11121I1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HtmlBT/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Thuchanhmodule3/.gradle/7.3.1/checksums/checksums.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Thuchanhmodule3/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
@@ -39,10 +60,11 @@
       <change beforePath="$PROJECT_DIR$/../Thuchanhmodule3/src/main/resources/META-INF/beans.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Thuchanhmodule3/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Thuchanhmodule3/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/config/AppConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/list.html" afterDir="false" />
       <change beforePath="$USER_HOME$/README.md" beforeDir="false" afterPath="$USER_HOME$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,12 +97,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2C0ZzaF6UdVew1REVXXXmIi5gb9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -214,7 +239,7 @@
       <workItem from="1658369187698" duration="22355000" />
       <workItem from="1658418704588" duration="1015000" />
       <workItem from="1662427929048" duration="121000" />
-      <workItem from="1662429939858" duration="630000" />
+      <workItem from="1662429939858" duration="3091000" />
     </task>
     <servers />
   </component>
