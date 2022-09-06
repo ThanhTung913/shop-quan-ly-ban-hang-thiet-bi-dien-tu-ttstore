@@ -39,6 +39,9 @@
       <change beforePath="$PROJECT_DIR$/../Thuchanhmodule3/src/main/resources/META-INF/beans.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Thuchanhmodule3/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Thuchanhmodule3/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/config/AppConfig.java" afterDir="false" />
       <change beforePath="$USER_HOME$/README.md" beforeDir="false" afterPath="$USER_HOME$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +61,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -99,7 +102,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.63" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Technology_Store:war">
           <settings>
@@ -210,6 +213,7 @@
       <workItem from="1658369187698" duration="22355000" />
       <workItem from="1658418704588" duration="1015000" />
       <workItem from="1662427929048" duration="121000" />
+      <workItem from="1662429939858" duration="314000" />
     </task>
     <servers />
   </component>
